@@ -4,7 +4,7 @@
 
 # 🧬 Multi-Modal Cancer Detection – Literature Review
 
-**Bachelor Research Project (Not Peer-Reviewed)**  
+**Bachelor Research Project**  
 Author: Julia Kurnaeva (@Yameteshka), 2025
 
 This repository contains a literature review on how multi-modal data integration (e.g. imaging, genomics, clinical records) impacts the performance of AI/ML models in detecting cancers like lung, breast, pancreatic, and osteosarcoma.
@@ -43,7 +43,7 @@ Traditional AI-based cancer detection models often rely on a **single data modal
 
 ## ⚠ Disclaimer
 
-> This work is a **student research project**, not a peer-reviewed publication.  
+> This work is a **student research project**.  
 > It is intended for **educational use only** and should not be cited as a scientific source.  
 > The author assumes no responsibility for how the information is used.
 
